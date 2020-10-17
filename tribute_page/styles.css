@@ -1,0 +1,27 @@
+#img-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #F5ECE0;
+  max-width: 1200px;
+  margin: auto;
+  padding: 30px 0px
+}
+#image {
+  max-width: 400px;
+  padding: 30px;
+}
+h1 {
+  font-size: 70px;
+  text-align: center;
+  margin: 60px 0px 50px;
+  font-family: 'Girassol', cursive;
+}
+#img-caption {
+  width: 400px;
+  padding-left: 70px;
+  padding-bottom: 50px;
+  font-size: 30px;
+  color: #5F4A2E;
+  line-height: 1.5;
+}
